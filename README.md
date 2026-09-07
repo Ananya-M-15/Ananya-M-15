@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=850&lines=probably+debugging+something;AI+%7C+ML+%7C+Data+%7C+Analytics;building+intelligent+systems;turning+ideas+into+things+that+work" />
+</p>
 
 <!--
 **Ananya-M-15/Ananya-M-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
